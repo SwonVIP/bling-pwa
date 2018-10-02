@@ -1,0 +1,14 @@
+.welcome-logo {
+  font-size: 15em;
+  color: #269815;
+}
+
+.welcome-page-container {
+  text-align: center;
+  background-color: white;
+}
+
+.welcome-full-page-container {
+  height: 100%;
+  width: 100%;
+}
